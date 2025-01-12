@@ -5,6 +5,8 @@
 **Linklytics** is a full-stack URL shortener application that provides analytics for shortened links. This project demonstrates proficiency in modern web development technologies and cloud deployment strategies.
 <img width="1440" alt="Screenshot 2025-01-12 at 2 50 10 PM" src="https://github.com/user-attachments/assets/a9fed2c6-a932-430b-83ba-f54806ae1d97" />
 <img width="1440" alt="Screenshot 2025-01-12 at 2 49 58 PM" src="https://github.com/user-attachments/assets/7294bbe3-74a0-4d8c-9f4a-dfb53db598b3" />
+<img width="1440" alt="Screenshot 2025-01-12 at 2 50 59 PM" src="https://github.com/user-attachments/assets/67b9f928-22ef-4df2-be2d-913b0dce57e8" />
+<img width="1440" alt="Screenshot 2025-01-12 at 2 50 43 PM" src="https://github.com/user-attachments/assets/4c807225-cacf-4962-a115-5e5657add632" />
 
 
 <img width="1440" alt="Screenshot 2025-01-12 at 2 45 44 PM" src="https://github.com/user-attachments/assets/9091363f-602d-4af0-8f0c-2ea5d461e9db" />
